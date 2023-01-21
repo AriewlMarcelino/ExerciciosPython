@@ -1,6 +1,4 @@
-﻿# ExerciciosPython
- 
- # ExerciciosPython
+# ExerciciosPython
 
 Trabalhos com python:
 
